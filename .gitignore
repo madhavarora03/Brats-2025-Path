@@ -2,3 +2,5 @@
 .idea
 data/*
 !data/.gitkeep
+__data
+checkpoints/*.pth
